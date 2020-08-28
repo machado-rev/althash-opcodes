@@ -1,5 +1,5 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# althash-opcodes
+The HTML opcodes map
 
 ## Installation
 ``` bash
