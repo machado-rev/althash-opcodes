@@ -1,0 +1,23 @@
+{
+  "name": "althash-opcodes",
+  "version": "1.0.0",
+  "description": "The HTML opcodes map",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machado-rev/althash-opcodes.git"
+  },
+  "keywords": [
+    "htmlcoin",
+    "opcodes"
+  ],
+  "author": "Qtum Weiyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machado-rev/althash-opcodes/issues"
+  },
+  "homepage": "https://github.com/machado-rev/althash-opcodes#readme"
+}
